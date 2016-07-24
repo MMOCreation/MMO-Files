@@ -4,5 +4,6 @@
 using namespace std;
 
 int main () {
-    // Some code goes in here or something idk.
+    // A command file ?
+    commands = 'commands.cpp'
 }
