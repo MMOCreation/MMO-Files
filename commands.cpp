@@ -1,5 +1,9 @@
-client
-  commant_text = "say "
-  
-  verb/say (T as text)
-    world << "[usr]: [T]"
+#include <iostream>
+
+using namespace std;
+
+// ban
+int ban () {
+    // I suck at C++ I quit
+    
+}
