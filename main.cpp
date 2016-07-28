@@ -1,9 +1,9 @@
-// Gotta start somewhere...
+// Include commands
 #include <iostream>
+#include <commands.cpp>
 
 using namespace std;
 
 int main () {
-    // A command file ?
-    commands = 'commands.cpp'
+    // Code block
 }
