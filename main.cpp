@@ -7,3 +7,12 @@ using namespace std;
 int main () {
     // Code block
 }
+
+int attack () {
+    io.readFile("indicator.csv", entity_name, bool);
+    if (entity_name == nul) {
+        return;
+    }
+    
+    // More code block here ?
+}
