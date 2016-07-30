@@ -14,5 +14,9 @@ int attack () {
         return;
     }
     
+    // ._.
+    if (attack_name.attack_damage < attack_name.attack_damage) {
+        return;
+    }
     // More code block here ?
 }
