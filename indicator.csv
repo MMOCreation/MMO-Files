@@ -1,0 +1,7 @@
+attack_name, min_level, attack_damage, level_cap
+entity_punch, 1, 5, 60
+entity_kick, 1, 5, 60
+entity_sword, 1, 7.5, 60
+entity_punch_strong, 5, 10, 60
+entity_kick_strong, 5, 10, 60
+entity_sword_strong, 5, 13.5, 60
