@@ -4,6 +4,6 @@ using namespace std;
 
 // ban
 int ban () {
-    // I suck at C++ I quit
+    // Insert code for above int
     
 }
